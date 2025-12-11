@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ラストリヴ",
+  "base_artist": "宮下遊",
+  "createdAt": "2025-12-11T21:35:55.289582Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラストリヴ",
+      "artist": "宮下 遊",
+      "has_synced": false,
+      "path": "select/pl_01_ラストリヴ_宮下_遊.txt"
+    }
+  ]
+}
